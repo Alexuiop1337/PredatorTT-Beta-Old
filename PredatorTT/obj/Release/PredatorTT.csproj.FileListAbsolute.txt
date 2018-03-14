@@ -1,0 +1,25 @@
+C:\Users\Пользователь\Desktop\Hooks\samp\PredatorTT\PredatorTT\bin\Release\PredatorTT.exe.config
+C:\Users\Пользователь\Desktop\Hooks\samp\PredatorTT\PredatorTT\bin\Release\PredatorTT.exe
+C:\Users\Пользователь\Desktop\Hooks\samp\PredatorTT\PredatorTT\bin\Release\PredatorTT.pdb
+C:\Users\Пользователь\Desktop\Hooks\samp\PredatorTT\PredatorTT\bin\Release\EntityFramework.dll
+C:\Users\Пользователь\Desktop\Hooks\samp\PredatorTT\PredatorTT\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Пользователь\Desktop\Hooks\samp\PredatorTT\PredatorTT\bin\Release\System.Data.SQLite.dll
+C:\Users\Пользователь\Desktop\Hooks\samp\PredatorTT\PredatorTT\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Пользователь\Desktop\Hooks\samp\PredatorTT\PredatorTT\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Пользователь\Desktop\Hooks\samp\PredatorTT\PredatorTT\bin\Release\EntityFramework.xml
+C:\Users\Пользователь\Desktop\Hooks\samp\PredatorTT\PredatorTT\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Пользователь\Desktop\Hooks\samp\PredatorTT\PredatorTT\bin\Release\System.Data.SQLite.xml
+C:\Users\Пользователь\Desktop\Hooks\samp\PredatorTT\PredatorTT\obj\Release\PredatorTT.exe
+C:\Users\Пользователь\Desktop\Hooks\samp\PredatorTT\PredatorTT\obj\Release\PredatorTT.pdb
+C:\Users\Пользователь\Desktop\my projects\C#\PredatorTT\PredatorTT\bin\Release\PredatorTT.exe.config
+C:\Users\Пользователь\Desktop\my projects\C#\PredatorTT\PredatorTT\obj\Release\PredatorTT.exe
+C:\Users\Пользователь\Desktop\my projects\C#\PredatorTT\PredatorTT\obj\Release\PredatorTT.pdb
+C:\Users\Пользователь\Desktop\my projects\C#\PredatorTT\PredatorTT\bin\Release\PredatorTT.exe
+C:\Users\Пользователь\Desktop\my projects\C#\PredatorTT\PredatorTT\bin\Release\PredatorTT.pdb
+C:\Users\Пользователь\Desktop\my projects\C#\PredatorTT\PredatorTT\bin\Release\System.Data.SQLite.dll
+C:\Users\Пользователь\Desktop\my projects\C#\PredatorTT\PredatorTT\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Пользователь\Desktop\my projects\C#\PredatorTT\PredatorTT\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Пользователь\Desktop\my projects\C#\PredatorTT\PredatorTT\bin\Release\System.Data.SQLite.xml
+C:\Users\Пользователь\Desktop\my projects\C#\PredatorTT\PredatorTT\obj\Release\PredatorTT.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь\Desktop\my projects\C#\PredatorTT\PredatorTT\bin\Release\System.Data.SQLite.dll.config
+C:\Users\Пользователь\Desktop\my projects\C#\PredatorTT\PredatorTT\obj\Release\PredatorTT.csproj.CoreCompileInputs.cache

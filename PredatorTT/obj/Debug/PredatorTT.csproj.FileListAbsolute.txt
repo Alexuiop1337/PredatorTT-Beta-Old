@@ -1,0 +1,14 @@
+C:\Users\Пользователь\Desktop\Hooks\samp\PredatorTT\PredatorTT\bin\Debug\PredatorTT.exe.config
+C:\Users\Пользователь\Desktop\Hooks\samp\PredatorTT\PredatorTT\bin\Debug\PredatorTT.exe
+C:\Users\Пользователь\Desktop\Hooks\samp\PredatorTT\PredatorTT\bin\Debug\PredatorTT.pdb
+C:\Users\Пользователь\Desktop\Hooks\samp\PredatorTT\PredatorTT\bin\Debug\EntityFramework.dll
+C:\Users\Пользователь\Desktop\Hooks\samp\PredatorTT\PredatorTT\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Пользователь\Desktop\Hooks\samp\PredatorTT\PredatorTT\bin\Debug\System.Data.SQLite.dll
+C:\Users\Пользователь\Desktop\Hooks\samp\PredatorTT\PredatorTT\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Пользователь\Desktop\Hooks\samp\PredatorTT\PredatorTT\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Пользователь\Desktop\Hooks\samp\PredatorTT\PredatorTT\bin\Debug\EntityFramework.xml
+C:\Users\Пользователь\Desktop\Hooks\samp\PredatorTT\PredatorTT\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Пользователь\Desktop\Hooks\samp\PredatorTT\PredatorTT\bin\Debug\System.Data.SQLite.xml
+C:\Users\Пользователь\Desktop\Hooks\samp\PredatorTT\PredatorTT\obj\Debug\PredatorTT.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь\Desktop\Hooks\samp\PredatorTT\PredatorTT\obj\Debug\PredatorTT.exe
+C:\Users\Пользователь\Desktop\Hooks\samp\PredatorTT\PredatorTT\obj\Debug\PredatorTT.pdb
